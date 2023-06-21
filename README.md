@@ -6,5 +6,5 @@ session04/05 we have completed an intor to Git and GitHub and have been requeste
 
 <h2>##**Sessions**</h2>
 
-- [] <h3>###**Session 05 Homework submission #1** </h3>- 
+-[] <h3>###**Session 05 Homework submission #1** </h3>- 
 README.md file created and loaded to github# EntryToTechSessions
