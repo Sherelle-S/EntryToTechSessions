@@ -1,4 +1,4 @@
-#**CBF/UBS Entry To Tech**#
+#CBF/UBS Entry To Tech
 
 ```This is a repo of homeworks and coursework assigned for CBF Entry to Tech with UBS.```
 
