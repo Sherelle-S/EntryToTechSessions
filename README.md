@@ -7,7 +7,7 @@ session04/05 we have completed an intor to Git and GitHub and have been requeste
 
 ## Sessions
 
-- [ ] ###Session 05 Homework submission #1 - 
+- [ ] Session 05 Homework submission #1 - 
 README.md file created and loaded to github# EntryToTechSessions
 
 - [ ] Session 06 - TBA
